@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "files": "*.md",
+      "options": {
+        "parser": "markdown-nocjsp",
+        "quickFix": true
+      }
+    }
+  ],
+  "options": {
+    "editorconfig": true
+  }
+}
