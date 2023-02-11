@@ -1,0 +1,8 @@
+{
+  "config": {
+    "default": true,
+    // "no-trailing-space": false,
+    "no-multiple-blanks": false
+  },
+  "globs": ["*.md"]
+}

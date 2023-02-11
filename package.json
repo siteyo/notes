@@ -8,6 +8,7 @@
   "keywords": [],
   "author": "",
   "devDependencies": {
+    "markdownlint-cli2": "^0.6.0",
     "prettier": "^2.8.3",
     "prettier-plugin-md-nocjsp": "^1.5.1",
     "textlint": "^13.1.1",
