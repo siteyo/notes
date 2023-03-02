@@ -3,7 +3,9 @@
     "default": true,
     // "no-trailing-space": false,
     "no-multiple-blanks": false,
-    "line-length": 120
+    "MD013": {
+      "line_length": 120
+    }
   },
   "globs": ["**/*.md"],
   "ignores": ["node_modules/**/*.md"]
