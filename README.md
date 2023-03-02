@@ -43,7 +43,3 @@ mind.nvimを使用するとツリー構造でメモやタスクを管理でき�
 -  Meeting
 -  Dairy
 - ﮷ Documents
-
-## To-Do
-
-- [ ] MarkdownLintをローカルインストールし、設定ファイルを追加する
